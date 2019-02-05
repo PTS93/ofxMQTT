@@ -4,7 +4,7 @@
 
 This addon bundles the [libmosquitto](http://mosquitto.org/man/libmosquitto-3.html) library and adds a thin wrapper to get an openframeworks like API.
 
-The first release of the addon only supports QoS0 and the basic features to get going. In the next releases more of the features will be available. Please create an issue if you need a specific functionality.
+The addon does not expose all advanced features of libmosquitto. Please create an issue if you need a specific functionality.
 
 This addon is an alternative to [ofxMosquitto](https://github.com/hideyukisaito/ofxMosquitto) by @hideyukisaito which didn't get much attention lately.
 
